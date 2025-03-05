@@ -1,0 +1,2 @@
+Here I'm going to do simple exercises on variables, data types and 
+type conversion in golang
