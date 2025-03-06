@@ -17,5 +17,5 @@ func ex8() {
 	// Type assetion
 	num := x.(int)
 
-	fmt.Printf("O valor de x é: %d\n", num)
+	fmt.Printf("The value of x is: %d\n", num)
 }

@@ -19,10 +19,10 @@ func ex7() {
 	var e float32 = 3.14
 	var f float64 = 3.141592653589793
 
-	fmt.Printf("Tipo de a: %T\n", a)
-	fmt.Printf("Tipo de b: %T\n", b)
-	fmt.Printf("Tipo de c: %T\n", c)
-	fmt.Printf("Tipo de d: %T\n", d)
-	fmt.Printf("Tipo de e: %T\n", e)
-	fmt.Printf("Tipo de f: %T\n", f)
+	fmt.Printf("Datatype of a: %T\n", a)
+	fmt.Printf("Datatype of b: %T\n", b)
+	fmt.Printf("Datatype of c: %T\n", c)
+	fmt.Printf("Datatype of d: %T\n", d)
+	fmt.Printf("Datatype of e: %T\n", e)
+	fmt.Printf("Datatype of f: %T\n", f)
 }

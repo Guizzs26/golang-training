@@ -41,5 +41,4 @@ func ex2() {
 		fmt.Printf("Sum: %d", a + b)
 
 	*/
-
 }

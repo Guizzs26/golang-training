@@ -17,7 +17,7 @@ import (
 func ex4() {
 	var numAsStr string
 
-	fmt.Print("Digite um número: ")
+	fmt.Print("Enter a number: ")
 	fmt.Scanln(&numAsStr)
 
 	numConvertedToInt, err := strconv.Atoi(numAsStr)
