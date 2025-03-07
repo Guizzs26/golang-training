@@ -10,7 +10,7 @@ package main
 
 import "fmt"
 
-func main() {
+func ex7() {
 	var n int
 	fatorial := 1
 

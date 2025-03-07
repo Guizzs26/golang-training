@@ -15,7 +15,7 @@ import (
 
 func ex3() {
 	num := 10
-	numToString := strconv.Itoa((num))
+	numToString := strconv.Itoa(num)
 
 	fmt.Println("The number is: " + numToString)
 }
